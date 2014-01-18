@@ -1781,9 +1781,7 @@ struct point p;
    else
       return 0;
 }
-int Rnd(a,p)
-int a;
-int p;
+int Rnd(int a,int p)
 {
    return a-p+(rand()%(2*p));
 }

@@ -3,6 +3,10 @@ Treasure
 
 A little game ---- Treasure 
 
+# Picture 
+
+![Alt text](exp.png)
+
 # Demonstration
 
 This is a 2D mining game, the player have to mine some metal, get the money, upgrade the equipmemt, and mine the special metal which is generated more deeper.
